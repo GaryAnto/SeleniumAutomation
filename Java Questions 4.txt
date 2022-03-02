@@ -1,0 +1,65 @@
+
+1).what oops means?
+
+*object-oriented programming loops is a style of programming characterized by the identification of classes of objects,
+ closely linked with the methods (function with which they are associated it also include ideas of H.
+
+
+2) what is polymorphism ?explain types?
+
+* polymorphism is the ability to process object diffrently on the basis of their class and datatype. 
+
+* There are two types namely 
+                 i) compile time polymorphism 
+                 ii) run time polymorphism
+
+
+3) what is interface and example in selenium Javap Ans - webdriven is an Pnterface and we are
+
+* Defining a reference variable (drives) whose type is an interface.
+
+* Now any object we assign to it must be an instance of a class (firefoxdriver) that implements the interface.
+
+
+4) what is abstract class and example?
+
+* Abstract classes are essential to providing a an abstraction to the code to make it reusable and extendable.
+
+* for example; a vehicle porcent class with Truck, and motorbike inheriting from P4 Ps an abstraction that easily allows more vehicles to be added.
+
+
+5). difference between multiple Pohoptance and must level
+
+The key difference between multiple and multilevel heritance is that multiple inheritance is when a class inherts from many base classes while multilevel inheritance is when a class inherit from derived class making that
+derived class base class for a few class.
+
+
+6) is multiple inheritance is possible in Jova ! when one class extends more than one classes Ans -
+
+* then this is called multiple interPlance.
+
+* for example: - class & extend Class A and B. then this type of in inheritance to known as multiple inheritance. but Java doesn't allow multiple inheritance.
+
+7) what is Keyboard?
+
+keyword for using in heritance is used to the extend keyword.
+
+8). what is the Keyword to connect interface and class
+
+* implements keyword.
+
+9). what is diffreme between class And interface ?
+ 
+* A class describe the attributes and behaviors of an object.
+
+* An interface contains behaviors that a class implement & A class may contain abstract methods, concrete methods.
+
+* An interface only abstract method.
+
+10).what is the diffrence between class and abstract class?
+
+* Abstract class can have static fields and static method , like other classes. 
+
+* An abstract method class. cannot be declared as final. 
+
+* only abstract. class can have abstract methods.
